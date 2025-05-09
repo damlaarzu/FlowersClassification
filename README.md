@@ -8,6 +8,9 @@ The dataset consists of flower images divided into five classes. The images were
 
 ## Models Implemented
 
+You can reach trained models from here:
+https://drive.google.com/drive/folders/1_0wB5WZ8y7rQvLDUEM_sPEEE4CNT3kcu?usp=sharing
+
 ### Model 1: Custom CNN
 A basic convolutional neural network implemented from scratch with the following architecture:
 - 5 convolutional blocks (each with convolution, ReLU activation, and max pooling)
@@ -135,7 +138,3 @@ The project implements various visualization techniques based on the Zeiler & Fe
 - Feature map visualization
 - Occlusion sensitivity maps
 - Class activation mapping
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
